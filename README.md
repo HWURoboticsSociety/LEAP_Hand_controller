@@ -18,6 +18,8 @@ Since there is no lib to directly connect the Leapmotion to the Arduino, I used 
 
 You can see a video here: https://vimeo.com/68530396
 
+[embed]https://raw.githubusercontent.com/HWURoboticsSociety/LEAP_Hand_controller/master/LeapHand-Description.pdf[/embed]
+
 ## License
 
 (The MIT License)
