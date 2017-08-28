@@ -1,5 +1,4 @@
-leapLamp [![Build Status](https://travis-ci.org/xseignard/leapLamp.png?branch=master)](https://travis-ci.org/xseignard/leapLamp)
-========
+http://inmoov.fr/leap-motion-tuto/
 
 # Description
 
